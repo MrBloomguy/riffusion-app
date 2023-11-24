@@ -26,7 +26,7 @@ export default function Home() {
         <div className="w-3/4 md:w-2/3 lg:w-1/2 text-lg pb-20">
           <h1 className="pt-16 pb-1 text-4xl font-bold">
             <Link href="/" className="no-underline">
-              [ RIFFUSION ]
+              [ Afrobeat AI  ]
             </Link>
           </h1>
           <h3 className="font-medium italic text-xl pb-6">
@@ -38,7 +38,7 @@ export default function Home() {
               <div>
                 <div className="mt-0.5 text-sm font-semibold">
                   <Link href="/" className="no-underline">
-                    Riffusion
+                    Afrobeat_AI
                   </Link>{" "}
                   was created by{" "}
                   <a
