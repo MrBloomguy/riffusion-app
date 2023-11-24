@@ -313,7 +313,7 @@ export default function Home() {
               className="text-3xl font-bold font-mono text-transparent bg-clip-text bg-gradient-to-t from-white/80 to-white/70 z-20 cursor-pointer"
               onClick={() => window.open("/about", "_blank")}
             >
-              [RIFFUSION]
+              [Afrobeat AI]
             </div>
           </div>
         </div>
